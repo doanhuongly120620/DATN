@@ -1,0 +1,42 @@
+{
+  "keywordFileContentHash": "C2B1E5B51A9EE75BE7DBB0D7CB83A5D0",
+  "keywordClasses": [
+    {
+      "name": "timkiem.abc",
+      "keywordMethods": [
+        {
+          "name": "TK",
+          "parameters": [
+            {
+              "name": "SP",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "ketqua",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

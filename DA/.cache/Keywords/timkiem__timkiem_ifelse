@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "5EBC02FD92197A537C6E94E476DF084B",
+  "keywordClasses": [
+    {
+      "name": "timkiem.timkiem_ifelse",
+      "keywordMethods": [
+        {
+          "name": "TK",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

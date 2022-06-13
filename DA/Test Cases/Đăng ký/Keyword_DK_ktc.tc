@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Keyword_DK_ktc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63e9474f-4c79-4a15-aeb7-cb93b91ab3e0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4012320c-1fde-453a-9872-882449796a88</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2f5a00b5-c966-4352-b1ca-846a3b4ef078</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bde73706-e0c6-41fb-86b6-8b2ead36c53f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ecb6cdb1-23a4-4830-be92-d14e8b2a2160</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

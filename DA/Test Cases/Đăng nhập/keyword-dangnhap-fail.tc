@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>keyword-dangnhap-fail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a40aec47-a5a5-4e35-bef3-7ddcd00be0ef</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a0cddf44-3776-4a28-ab18-247622e72632</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>75e2a760-ca4f-4913-ace8-fa99498a763f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

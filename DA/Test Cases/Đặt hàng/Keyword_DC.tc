@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Keyword_DC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d9033d9d-aff8-41dc-a1d1-7041ea98e4fe</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>748e600f-7e77-4ba5-898b-be6a9a002a99</id>
+      <masked>false</masked>
+      <name>billingName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>060198cd-6aca-4c3c-919b-6c31c7c66d96</id>
+      <masked>false</masked>
+      <name>billingPhone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>833ebe2c-c48b-403a-beea-2101c02e56cd</id>
+      <masked>false</masked>
+      <name>billingAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>346e7c95-8c7f-4888-97c4-192c829276e2</id>
+      <masked>false</masked>
+      <name>billingProvince</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fd52ab0e-747f-4f78-a313-f2f413b08c34</id>
+      <masked>false</masked>
+      <name>reductionCode</name>
+   </variable>
+</TestCaseEntity>

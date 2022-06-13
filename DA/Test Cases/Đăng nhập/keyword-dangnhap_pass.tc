@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>keyword-dangnhap_pass</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>037ace55-4c35-4e9c-9668-d0d2d685f694</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>88761e8c-9d7b-48d3-b53e-1a0fb3d4c01e</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e9f8c6c6-508b-4284-8600-0ba0f51bdc1a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

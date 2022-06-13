@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "A58216EC49AAC6ECAFE72AFAF237B206",
+  "keywordClasses": [
+    {
+      "name": "timkiem.Keyword_TK",
+      "keywordMethods": [
+        {
+          "name": "TK",
+          "parameters": [
+            {
+              "name": "SP",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "ketqua",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

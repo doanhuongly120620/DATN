@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TK_keyword_ifelse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>22b1a4f3-64a9-4bc5-b62c-21b2ed9a7b83</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ca907d8-a65f-41a7-8065-dd73748b9715</id>
+      <masked>false</masked>
+      <name>SP</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f5b3406d-c1c0-40be-8afd-7967678f60ef</id>
+      <masked>false</masked>
+      <name>ketqua</name>
+   </variable>
+</TestCaseEntity>

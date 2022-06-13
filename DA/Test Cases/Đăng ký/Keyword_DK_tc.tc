@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Keyword_DK_tc</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50c09175-43fc-4fca-b0dd-62a22a3006a4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22b14b31-a871-4d9a-b6d3-1b645fd5dd4a</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b132903-a1a9-4fc8-80a1-91c6c510db22</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9bc01d01-8f93-468a-ac69-a458c6b81d1e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86dce206-0ee3-4a51-9b4a-da7e30ba755d</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
